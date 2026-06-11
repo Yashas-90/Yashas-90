@@ -226,7 +226,6 @@ void motto() {
 [![Email](https://img.shields.io/badge/Email-saiyashas1234%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiyashas1234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashas%20Sai%20G-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashas-sai-g)
 [![GitHub](https://img.shields.io/badge/GitHub-Yashas--90-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yashas-90)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209113630923-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919113630923)
 
 </div>
 
